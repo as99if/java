@@ -1,0 +1,17 @@
+prolog syntax 
+logical fact - jegula true
+fact start kori small letter e, end kori . (fulsstop) diye
+fact er arguments - atoms, starts with small letter
+fact ber kora, oglar upre base kore search kora
+conclusion - question
+eclipse e kamkaj -_- 
+query
+knowledge base or database - fact gula diye
+variable - boro hater okkhor diya shuru
+variable dibo console e (argument er vitre)
+argument - small letter - atom
+argument - capital letter - variable
+tab tab tab 
+rules er moddhe atom thakbe na, variable thakbe
+
+fact(var, var) :- rules
